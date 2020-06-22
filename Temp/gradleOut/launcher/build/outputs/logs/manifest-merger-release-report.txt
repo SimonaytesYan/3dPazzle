@@ -1,0 +1,409 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:3:1-66:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\078d966f2d45c8f1c691e9d5302de546\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\ae6a78648bccec2c9729b341256fb8bb\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\cedb930594ef7bb4990ea017ef68366f\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\b02ae7ec447dd461cb0c18a7419147c0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\5d411818cb787d1312eedc732fdaaebe\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\828d6d86b39b7a2b40894c9494decf09\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\5f0bb3710d701098c11641cc29c41324\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\38b2b3dcbd89a530672dfb6a302bae76\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\b9c2b188aab2f8ee486702591dd13ad3\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\232066dc99c1a776c83de0b61fed09d1\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d594bf3f4754083a567237d7aa654185\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\dc23a7d95570fda79d2a035a2e255a37\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\aa1aecd861becc0f1d317cdb19c9d4c2\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\718140ad1f0905dcca696d922e2625d7\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d36292e8b57988415ab4479e47f902a3\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\f1f973170ccc7bfd29bebeecb6402b54\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\f7baa0d11ce8f4dd5ef78f57ba3c7898\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\787f84863149fcd6d7012da400ca9599\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\6376f31fd2ea24ea5f42538c3b8e9da2\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\811769dc252235d3a8d0aacb938d459e\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\3682b159beeb3dc197d7bdcac61d69f4\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\baf23d7af7fc07f79a30dfad9467aa72\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\4f0f3733a96eaec50b0af3816c64469f\AndroidManifest.xml:17:1-25:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\1ad59dddbf2ca3ed7e0ba25e9308755d\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-ads-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\e0dc4f1d9edb3e06a0b1b59fae38cf30\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-ads-base-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c082563c2805174fdec2ea363cc8b765\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d865487d0f755a3b1c4e71fbb4aadb01\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:17:1-27:12
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7110cbdd5b3026808d76a1956e73b3c5\AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-gass-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7d36cf34836df2a3a683b4c878693316\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\94143012f360125f9e625bb3e1008f70\AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\34eb41c64f0b9c71f6a1accd0b64aab1\AndroidManifest.xml:17:1-27:12
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\3b417f15444e556c44c920e90a2be650\AndroidManifest.xml:2:1-9:12
+MERGED from [:common:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\8cc3c67aa3d6a65e2eadea7b523c6f76\AndroidManifest.xml:2:1-12:12
+MERGED from [:GoogleAIDL:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\87610e1ac9f55cdd2d7fea7cae96f483\AndroidManifest.xml:2:1-12:12
+MERGED from [:googlemobileads-unity:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7bc4a0598bff2e13a1444c3857837fe6\AndroidManifest.xml:7:1-18:12
+MERGED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:2:1-40:12
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-98
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:99-145
+	android:versionCode
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:146-186
+supports-screens
+ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-64:19
+MERGED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-64:19
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\5d411818cb787d1312eedc732fdaaebe\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\5d411818cb787d1312eedc732fdaaebe\AndroidManifest.xml:22:5-89
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\4f0f3733a96eaec50b0af3816c64469f\AndroidManifest.xml:22:5-23:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\4f0f3733a96eaec50b0af3816c64469f\AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-ads-base-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c082563c2805174fdec2ea363cc8b765\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-base-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c082563c2805174fdec2ea363cc8b765\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d865487d0f755a3b1c4e71fbb4aadb01\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d865487d0f755a3b1c4e71fbb4aadb01\AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:22:3-26:17
+MERGED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:22:3-26:17
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7110cbdd5b3026808d76a1956e73b3c5\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7110cbdd5b3026808d76a1956e73b3c5\AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-gass-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7d36cf34836df2a3a683b4c878693316\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-gass-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7d36cf34836df2a3a683b4c878693316\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\94143012f360125f9e625bb3e1008f70\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\94143012f360125f9e625bb3e1008f70\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\3b417f15444e556c44c920e90a2be650\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\3b417f15444e556c44c920e90a2be650\AndroidManifest.xml:7:5-20
+MERGED from [:common:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\8cc3c67aa3d6a65e2eadea7b523c6f76\AndroidManifest.xml:9:5-10:19
+MERGED from [:common:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\8cc3c67aa3d6a65e2eadea7b523c6f76\AndroidManifest.xml:9:5-10:19
+MERGED from [:GoogleAIDL:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\87610e1ac9f55cdd2d7fea7cae96f483\AndroidManifest.xml:9:5-10:19
+MERGED from [:GoogleAIDL:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\87610e1ac9f55cdd2d7fea7cae96f483\AndroidManifest.xml:9:5-10:19
+MERGED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:22:5-38:19
+MERGED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:22:5-38:19
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-20:19
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-20:19
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\5d411818cb787d1312eedc732fdaaebe\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:allowBackup
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:22:18-44
+	android:icon
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-80
+uses-sdk
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\078d966f2d45c8f1c691e9d5302de546\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\078d966f2d45c8f1c691e9d5302de546\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\ae6a78648bccec2c9729b341256fb8bb\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\ae6a78648bccec2c9729b341256fb8bb\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\cedb930594ef7bb4990ea017ef68366f\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\cedb930594ef7bb4990ea017ef68366f\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\b02ae7ec447dd461cb0c18a7419147c0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\b02ae7ec447dd461cb0c18a7419147c0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\5d411818cb787d1312eedc732fdaaebe\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\5d411818cb787d1312eedc732fdaaebe\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\828d6d86b39b7a2b40894c9494decf09\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\828d6d86b39b7a2b40894c9494decf09\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\5f0bb3710d701098c11641cc29c41324\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\5f0bb3710d701098c11641cc29c41324\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\38b2b3dcbd89a530672dfb6a302bae76\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\38b2b3dcbd89a530672dfb6a302bae76\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\b9c2b188aab2f8ee486702591dd13ad3\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\b9c2b188aab2f8ee486702591dd13ad3\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\232066dc99c1a776c83de0b61fed09d1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\232066dc99c1a776c83de0b61fed09d1\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d594bf3f4754083a567237d7aa654185\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d594bf3f4754083a567237d7aa654185\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\dc23a7d95570fda79d2a035a2e255a37\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\dc23a7d95570fda79d2a035a2e255a37\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\aa1aecd861becc0f1d317cdb19c9d4c2\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\aa1aecd861becc0f1d317cdb19c9d4c2\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\718140ad1f0905dcca696d922e2625d7\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\718140ad1f0905dcca696d922e2625d7\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d36292e8b57988415ab4479e47f902a3\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d36292e8b57988415ab4479e47f902a3\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\f1f973170ccc7bfd29bebeecb6402b54\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\f1f973170ccc7bfd29bebeecb6402b54\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\f7baa0d11ce8f4dd5ef78f57ba3c7898\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\f7baa0d11ce8f4dd5ef78f57ba3c7898\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\787f84863149fcd6d7012da400ca9599\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\787f84863149fcd6d7012da400ca9599\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\6376f31fd2ea24ea5f42538c3b8e9da2\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\6376f31fd2ea24ea5f42538c3b8e9da2\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\811769dc252235d3a8d0aacb938d459e\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\811769dc252235d3a8d0aacb938d459e\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\3682b159beeb3dc197d7bdcac61d69f4\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\3682b159beeb3dc197d7bdcac61d69f4\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\baf23d7af7fc07f79a30dfad9467aa72\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\baf23d7af7fc07f79a30dfad9467aa72\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\4f0f3733a96eaec50b0af3816c64469f\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\4f0f3733a96eaec50b0af3816c64469f\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\1ad59dddbf2ca3ed7e0ba25e9308755d\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\1ad59dddbf2ca3ed7e0ba25e9308755d\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\e0dc4f1d9edb3e06a0b1b59fae38cf30\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\e0dc4f1d9edb3e06a0b1b59fae38cf30\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-base-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c082563c2805174fdec2ea363cc8b765\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-base-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c082563c2805174fdec2ea363cc8b765\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d865487d0f755a3b1c4e71fbb4aadb01\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\d865487d0f755a3b1c4e71fbb4aadb01\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7110cbdd5b3026808d76a1956e73b3c5\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7110cbdd5b3026808d76a1956e73b3c5\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-gass-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7d36cf34836df2a3a683b4c878693316\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-gass-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7d36cf34836df2a3a683b4c878693316\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\94143012f360125f9e625bb3e1008f70\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\94143012f360125f9e625bb3e1008f70\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\34eb41c64f0b9c71f6a1accd0b64aab1\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\34eb41c64f0b9c71f6a1accd0b64aab1\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\3b417f15444e556c44c920e90a2be650\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\3b417f15444e556c44c920e90a2be650\AndroidManifest.xml:5:5-44
+MERGED from [:common:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\8cc3c67aa3d6a65e2eadea7b523c6f76\AndroidManifest.xml:7:5-43
+MERGED from [:common:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\8cc3c67aa3d6a65e2eadea7b523c6f76\AndroidManifest.xml:7:5-43
+MERGED from [:GoogleAIDL:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\87610e1ac9f55cdd2d7fea7cae96f483\AndroidManifest.xml:7:5-43
+MERGED from [:GoogleAIDL:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\87610e1ac9f55cdd2d7fea7cae96f483\AndroidManifest.xml:7:5-43
+MERGED from [:googlemobileads-unity:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7bc4a0598bff2e13a1444c3857837fe6\AndroidManifest.xml:12:5-14:41
+MERGED from [:googlemobileads-unity:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7bc4a0598bff2e13a1444c3857837fe6\AndroidManifest.xml:12:5-14:41
+MERGED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:7:5-9:41
+MERGED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:7:5-9:41
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-47
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-47
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.google.android.gms.play-services-ads-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\e0dc4f1d9edb3e06a0b1b59fae38cf30\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		MERGED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Cerf2.0\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-67
+MERGED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\34eb41c64f0b9c71f6a1accd0b64aab1\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\34eb41c64f0b9c71f6a1accd0b64aab1\AndroidManifest.xml:23:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7bc4a0598bff2e13a1444c3857837fe6\AndroidManifest.xml:16:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7bc4a0598bff2e13a1444c3857837fe6\AndroidManifest.xml:16:5-67
+MERGED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:11:5-67
+MERGED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-50:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-194
+	android:theme
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:13-46:40
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:13-49:40
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-37
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:9-54:33
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-30
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:9-57:36
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-33
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:9-60:50
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-47
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:9-63:68
+	android:value
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-65
+	android:name
+		ADDED from [:unityLibrary] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:13-42
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\34eb41c64f0b9c71f6a1accd0b64aab1\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\34eb41c64f0b9c71f6a1accd0b64aab1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:21:20-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:24:5-254
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:24:178-202
+	android:configChanges
+		ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:24:68-177
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:24:203-251
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:24:15-67
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:25:5-193
+	android:authorities
+		ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:25:79-141
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:25:142-166
+	android:initOrder
+		ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:25:167-190
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-19.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\c42595b81125ce016d31c60c4b3399e9\AndroidManifest.xml:25:15-78
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7110cbdd5b3026808d76a1956e73b3c5\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7110cbdd5b3026808d76a1956e73b3c5\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-17.0.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7110cbdd5b3026808d76a1956e73b3c5\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\34eb41c64f0b9c71f6a1accd0b64aab1\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-sdk-api-17.1.0:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\34eb41c64f0b9c71f6a1accd0b64aab1\AndroidManifest.xml:25:22-65
+uses-permission#com.android.vending.BILLING
+ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:12:22-64
+uses-feature#android.software.vr.mode
+ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:15:9-48
+uses-feature#android.software.vr.high_performance
+ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:19:9-60
+activity#com.unity.purchasing.googleplay.PurchaseActivity
+ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:23:9-26:86
+	android:configChanges
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:25:13-170
+	android:theme
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:26:13-83
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:24:13-76
+activity#com.unity.purchasing.googleplay.VRPurchaseActivity
+ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:27:9-37:20
+	android:enableVrMode
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:30:13-106
+	android:configChanges
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:29:13-170
+	android:theme
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:31:13-51
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:28:13-78
+intent-filter#action:name:com.google.vr.vrcore.ACTION_NONE+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:32:13-36:29
+action#com.google.vr.vrcore.ACTION_NONE
+ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:33:17-75
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:33:25-72
+category#com.google.intent.category.DAYDREAM
+ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:35:17-80
+	android:name
+		ADDED from [:GooglePlay:] C:\Users\111\.gradle\caches\transforms-2\files-2.1\7000f3b684fd00e05bc681cbe4d6b185\AndroidManifest.xml:35:27-77
+uses-library#org.apache.http.legacy
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:11:13-50
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-16:36
+	android:value
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-33
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-69
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:17:9-19:70
+	android:value
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-67
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin] D:\Projects\Cerf2.0\Temp\gradleOut\unityLibrary\GoogleMobileAdsPlugin\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-69
